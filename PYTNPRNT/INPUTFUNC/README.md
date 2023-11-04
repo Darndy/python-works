@@ -1,1 +1,1 @@
-This directory contains code that practice the input function in python
+This directory contains code that practice the input function in python language
