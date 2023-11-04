@@ -1,0 +1,1 @@
+This directory contains code that practice how to use variables in python
