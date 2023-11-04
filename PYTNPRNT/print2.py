@@ -1,0 +1,1 @@
+print("i am dandy\nim a python developer\nim a winner")
