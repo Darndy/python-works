@@ -1,2 +1,2 @@
 # python-works
-this repo is created to practice python.S
+this repo is created to practice python
