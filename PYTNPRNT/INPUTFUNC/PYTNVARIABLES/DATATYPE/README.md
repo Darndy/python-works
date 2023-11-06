@@ -1,0 +1,1 @@
+This directory contains code that just prints the datatype of any variable.
